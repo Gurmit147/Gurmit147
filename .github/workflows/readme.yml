@@ -9,29 +9,29 @@ on:
 jobs:
   update-readme:
     runs-on: ubuntu-22.04
+
     steps:
       - name: Checkout code
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
 
       - name: Set up Git configuration
         run: |
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
 
-      - name: Authenticate with LANGUAGESTATS token
+      - name: Fetch README stats with private repos
+        env:
+          LANGUAGESTATS: ${{ secrets.LANGUAGESTATS }}
         run: |
-          git remote set-url origin https://github.com/${{ github.repository }}
-          git config --global credential.helper store
-          echo "https://$LANGUAGESTATS:x-oauth-basic@github.com" > ~/.git-credentials
+          curl -o top-langs.svg "https://github-readme-stats.vercel.app/api/top-langs/?username=Gurmit147&layout=compact&langs_count=10&theme=radical&count_private=true&token=$LANGUAGESTATS"
+          echo "![Top Langs](./top-langs.svg)" > README.md
 
       - name: Commit and push changes
         run: |
-          if git diff-index --quiet HEAD --; then
+          if git diff --quiet; then
             echo "No changes to commit."
           else
-            git add .
+            git add README.md
             git commit -m "Update README with private stats"
             git push
           fi
-        env:
-          LANGUAGESTATS: ${{ secrets.LANGUAGESTATS }}
