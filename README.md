@@ -50,4 +50,6 @@
 🎓 **Multiple Anugerah Ketua Jabatan**  
 *(Awarded for maintaining a stellar academic record throughout my diploma journey)*
 
+## 🌐 **Connect with Me:**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/gurmit147](https://www.linkedin.com/in/gurmit-singh-98b987201?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))  
 
