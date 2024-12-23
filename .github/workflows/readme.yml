@@ -23,15 +23,16 @@ jobs:
         env:
           LANGUAGESTATS: ${{ secrets.LANGUAGESTATS }}
         run: |
-          curl -o top-langs.svg "https://github-readme-stats.vercel.app/api/top-langs/?username=Gurmit147&layout=compact&langs_count=10&theme=radical&count_private=true&token=$LANGUAGESTATS"
-          echo "![Top Langs](./top-langs.svg)" > README.md
+          curl -o top-langs.svg "https://github-readme-stats.vercel.app/api/top-langs/?username=Gurmit147&layout=compact&langs_count=10&theme=radical&count_private=true&token=${LANGUAGESTATS}"
+          echo -e "## Top Languages\n\n![Top Langs](./top-langs.svg)" > README.md
+
+      - name: Check for changes
+        id: git-status
+        run: echo "::set-output name=changed::$(git status --porcelain | wc -l)"
 
       - name: Commit and push changes
+        if: steps.git-status.outputs.changed != '0'
         run: |
-          if git diff --quiet; then
-            echo "No changes to commit."
-          else
-            git add README.md
-            git commit -m "Update README with private stats"
-            git push
-          fi
+          git add README.md top-langs.svg
+          git commit -m "Update README with private stats"
+          git push
