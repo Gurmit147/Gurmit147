@@ -1,0 +1,37 @@
+name: Update README with Private Stats
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-22.04
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Set up Git configuration
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+
+      - name: Authenticate with LANGUAGESTATS token
+        run: |
+          git remote set-url origin https://github.com/${{ github.repository }}
+          git config --global credential.helper store
+          echo "https://$LANGUAGESTATS:x-oauth-basic@github.com" > ~/.git-credentials
+
+      - name: Commit and push changes
+        run: |
+          if git diff-index --quiet HEAD --; then
+            echo "No changes to commit."
+          else
+            git add .
+            git commit -m "Update README with private stats"
+            git push
+          fi
+        env:
+          LANGUAGESTATS: ${{ secrets.LANGUAGESTATS }}
