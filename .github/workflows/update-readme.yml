@@ -1,5 +1,13 @@
+name: Update README with Private Stats
+
+on:
+  push:
+    branches:
+      - main # Specify the branch to monitor
+  workflow_dispatch: # Allows manual triggering
+
 jobs:
-  your-job-name:
+  update-readme:
     runs-on: ubuntu-latest
     steps:
       # Step 1: Checkout the repository
