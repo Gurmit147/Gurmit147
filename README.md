@@ -30,6 +30,24 @@
 ### Databases:
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gurmit147&layout=compact&theme=radical&count_private=true)
+## 📊 **GitHub Stats**
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gurmit147&layout=compact&theme=radical&count_private=true)  
+![Gurmit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gurmit147&show_icons=true&theme=radical)
+
+## 🏆 **My Dev Achievements**
+
+🎖️ **Gold Award** at the **iDRIVE Competition**  
+*(Hosted by Universiti Tun Hussein Onn Malaysia, with international participants from Indonesia, Thailand, the Philippines, and India)*  
+
+🏅 **Anugerah Projek Terbaik**  
+*(Recognized during convocation for excellence in innovation and research)*  
+
+🌟 **Polyskills & WorldSkills Achievements:**  
+- Represented **Politeknik Seberang Perai** in **Polyskills** and **pra-Worldskills**  
+- Achieved a **Top 10** finish in **WorldSkills Malaysia Belia** 🌍  
+
+🎓 **Multiple Anugerah Ketua Jabatan**  
+*(Awarded for maintaining a stellar academic record throughout my diploma journey)*
 
 
