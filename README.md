@@ -30,9 +30,9 @@
 ### Databases:
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
+
+
 ## Languages I Have Coded In:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gurmit147&layout=compact&langs_count=10&theme=radical&count_private=true&token=${{ secrets.LANGUAGESTATS }})
-
-
 
