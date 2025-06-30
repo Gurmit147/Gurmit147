@@ -36,6 +36,8 @@
 ![Gurmit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gurmit147&show_icons=true&theme=radical)
 
 ## 🏆 **My Dev Achievements**
+🎖️ **Bronze Award** at the **iRISE Competition**  
+*(Hosted by Uitm Kelantan)*  
 
 🎖️ **Gold Award** at the **iDRIVE Competition**  
 *(Hosted by Universiti Tun Hussein Onn Malaysia, with international participants from Indonesia, Thailand, the Philippines, and India)*  
