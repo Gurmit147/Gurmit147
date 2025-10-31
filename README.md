@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Gurmit147/Gurmit147/main/W5LnBksnN2E3PTCdgDF9g3.png" alt="GitHub Banner" width="100%">
+</p>
+
 <h1 align="center">👋 Hey there, I'm <span style="color:#ff006e;">Gurmit Singh</span></h1>
 
 <h3 align="center">💻 Full Stack Developer | 🚀 Innovator | 🏆 Tech Enthusiast</h3>
@@ -45,7 +49,6 @@
 
 <br><br>
 
-<img src="https://streak-stats.demolab.dev?user=Gurmit147&theme=react-dark" alt="GitHub Streak" />
 
 
 
