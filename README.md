@@ -58,11 +58,4 @@
 ![trophy](https://github-profile-trophy.vercel.app/?username=Gurmit147&theme=onedark&column=3&margin-w=15&margin-h=15)
 
 
-make it look cool darkmode with red
 
-
-adjust it and make it look cool, make it darkmode and red
-
-
-
-make it look cool and adjust the positions like maybe can add trophies at top 
