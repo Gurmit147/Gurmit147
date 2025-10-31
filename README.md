@@ -1,64 +1,76 @@
-# 💻 Development Stack :
+<!-- 🔥 Gurmit Singh | GitHub Profile README 🔥 -->
+<div align="center">
 
-### Languages:
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)  
-![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)  
-![Visual Basic](https://img.shields.io/badge/visual%20basic-%235C2D91.svg?style=for-the-badge&logo=.net&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+# 🏆 **Gurmit Singh**
+### 💻 Developer | Innovator | Tech Enthusiast
 
-### Frameworks & Libraries:
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) 
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+---
 
-### Tools & Platforms:
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) 
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+### 🏅 **GitHub Trophies**
+![trophy](https://github-profile-trophy.vercel.app/?username=Gurmit147&theme=onedark&no-frame=true&column=4&margin-w=10&margin-h=10)
 
-### Servers:
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) 
-
-### Databases:
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+---
 
 ## 📊 **GitHub Stats**
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gurmit147&layout=compact&theme=radical&count_private=true)  
-![Gurmit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gurmit147&show_icons=true&theme=radical)
+![Gurmit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gurmit147&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF0000&icon_color=FF0000&text_color=FFFFFF)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gurmit147&layout=compact&theme=tokyonight&bg_color=0D1117&hide_border=true&title_color=FF0000&text_color=FFFFFF)
 
-## 🏆 **My Dev Achievements**
-🎖️ **Bronze Award** at the **iRISE Competition**  
-*(Hosted by Uitm Kelantan)*  
+---
 
-🎖️ **Gold Award** at the **iDRIVE Competition**  
-*(Hosted by Universiti Tun Hussein Onn Malaysia, with international participants from Indonesia, Thailand, the Philippines, and India)*  
+## 💻 **Development Stack**
 
-🏅 **Anugerah Projek Terbaik**  
-*(Recognized during convocation for excellence in innovation and research)*  
+### 🧠 Languages
+![PHP](https://img.shields.io/badge/php-%230D1117.svg?style=for-the-badge&logo=php&logoColor=FF0000)
+![C++](https://img.shields.io/badge/c++-%230D1117.svg?style=for-the-badge&logo=c%2B%2B&logoColor=FF0000)
+![Java](https://img.shields.io/badge/java-%230D1117.svg?style=for-the-badge&logo=java&logoColor=FF0000)
+![JavaScript](https://img.shields.io/badge/javascript-%230D1117.svg?style=for-the-badge&logo=javascript&logoColor=FF0000)
+![Python](https://img.shields.io/badge/python-%230D1117.svg?style=for-the-badge&logo=python&logoColor=FF0000)
+![Visual Basic](https://img.shields.io/badge/visual%20basic-%230D1117.svg?style=for-the-badge&logo=.net&logoColor=FF0000)
+![CSS3](https://img.shields.io/badge/css3-%230D1117.svg?style=for-the-badge&logo=css3&logoColor=FF0000)
+![HTML5](https://img.shields.io/badge/html5-%230D1117.svg?style=for-the-badge&logo=html5&logoColor=FF0000)
+![TypeScript](https://img.shields.io/badge/typescript-%230D1117.svg?style=for-the-badge&logo=typescript&logoColor=FF0000)
 
-🌟 **Polyskills & WorldSkills Achievements:**  
-- Represented **Politeknik Seberang Perai** in **Polyskills** and **pra-Worldskills**  
-- Achieved a **Top 10** finish in **WorldSkills Malaysia Belia** 🌍  
+---
 
-🎓 **Multiple Anugerah Ketua Jabatan**  
-*(Awarded for maintaining a stellar academic record throughout my diploma journey)*
+### ⚙️ Frameworks & Libraries
+![React](https://img.shields.io/badge/react-%230D1117.svg?style=for-the-badge&logo=react&logoColor=FF0000)
+![Django](https://img.shields.io/badge/django-%230D1117.svg?style=for-the-badge&logo=django&logoColor=FF0000)
+![Laravel](https://img.shields.io/badge/laravel-%230D1117.svg?style=for-the-badge&logo=laravel&logoColor=FF0000)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%230D1117.svg?style=for-the-badge&logo=bootstrap&logoColor=FF0000)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%230D1117.svg?style=for-the-badge&logo=tailwind-css&logoColor=FF0000)
 
-## 🌐 **Connect with Me:**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gurmit-singh-98b987201?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+---
 
-![trophy](https://github-profile-trophy.vercel.app/?username=Gurmit147&theme=onedark&column=3&margin-w=15&margin-h=15)
+### 🧰 Tools & Platforms
+![NodeJS](https://img.shields.io/badge/node.js-%230D1117.svg?style=for-the-badge&logo=node.js&logoColor=FF0000)
+![NPM](https://img.shields.io/badge/NPM-%230D1117.svg?style=for-the-badge&logo=npm&logoColor=FF0000)
+![Firebase](https://img.shields.io/badge/firebase-%230D1117.svg?style=for-the-badge&logo=firebase&logoColor=FF0000)
+![.Net](https://img.shields.io/badge/.NET-%230D1117.svg?style=for-the-badge&logo=.net&logoColor=FF0000)
 
+---
 
-make it look cool darkmode with red
+### 🖥️ Servers & Databases
+![Apache](https://img.shields.io/badge/apache-%230D1117.svg?style=for-the-badge&logo=apache&logoColor=FF0000)
+![MySQL](https://img.shields.io/badge/mysql-%230D1117.svg?style=for-the-badge&logo=mysql&logoColor=FF0000)
 
+---
 
-adjust it and make it look cool, make it darkmode and red
+## 🏅 **My Dev Achievements**
+
+🎖️ **Bronze Award** – *iRISE Competition (UiTM Kelantan)*  
+🎖️ **Gold Award** – *iDRIVE Competition (UTHM, with participants from Indonesia, Thailand, the Philippines, & India)*  
+🏅 **Anugerah Projek Terbaik** – *Convocation recognition for excellence in innovation & research*  
+🌍 **Top 10 in WorldSkills Malaysia Belia** – *Represented Politeknik Seberang Perai in Polyskills & pra-WorldSkills*  
+🎓 **Multiple Anugerah Ketua Jabatan** – *For maintaining outstanding academic performance*
+
+---
+
+## 🌐 **Connect with Me**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230D1117.svg?style=for-the-badge&logo=linkedin&logoColor=FF0000)](https://www.linkedin.com/in/gurmit-singh-98b987201)
+
+---
+
+### ⚡ “Turning Code into Innovation” ⚡
+
+</div>
