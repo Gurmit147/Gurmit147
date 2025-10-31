@@ -73,6 +73,11 @@
 - 🎓 **Multiple Anugerah Ketua Jabatan** — *For academic excellence*
 
 ---
+![Top Langs Bar](https://github-readme-stats.vercel.app/api/top-langs/?username=Gurmit147&layout=donut-vertical&theme=radical&hide_border=true&bg_color=0D1117&title_color=00aaff)
+---
+
+
+---
 
 ## 📈 Activity Graph
 
