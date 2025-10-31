@@ -66,7 +66,7 @@
 
 ### 🥇 Major Awards
 - 🥉 **Bronze Award** — *iRISE Competition (UiTM Kelantan)*  
-- 🥇 **Gold Award** — *iDRIVE Competition (UTHM, International)*  
+- 🥇 **Gold Award** — *iDRIVE Competition (UTHM Johor)*  
 - 🏅 **Anugerah Projek Terbaik** — *Recognized during Convocation for innovation*  
 - 🌍 **WorldSkills Malaysia Belia Top 10 Finisher**  
 - 🧩 Represented **Politeknik Seberang Perai** in **Polyskills & pra-WorldSkills**  
@@ -76,7 +76,7 @@
 
 ## 📈 Activity Graph
 
-![Gurmit's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Gurmit147&theme=react-dark&bg_color=0D1117&hide_border=true&line=ff006e&point=00ffff)
+![Gurmit's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Gurmit147&theme=react-dark&bg_color=0D1117&hide_border=true&line=00aaff&point=00ffff)
 
 ---
 
