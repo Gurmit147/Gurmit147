@@ -45,7 +45,8 @@
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Gurmit147&theme=radical&hide_border=true&background=0D1117&fire=FF2D20&ring=ff006e&currStreakLabel=00ffff" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.dev?user=Gurmit147&theme=react-dark" alt="GitHub Streak" />
+
 
 </div>
 
