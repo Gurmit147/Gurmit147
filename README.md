@@ -40,19 +40,7 @@
 
 ---
 
-## 📊 GitHub Analytics
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Gurmit147&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=ff006e&icon_color=00ffff" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gurmit147&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=ff006e" height="170" />
-
-<br><br>
-
-
-
-
-</div>
 
 ---
 
