@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Gurmit147/Gurmit147/main/W5LnBksnN2E3PTCdgDF9g3.png" alt="GitHub Banner" width="100%" style="border-radius: 15px; box-shadow: 0 10px 30px rgba(0,255,255,0.3);">
+  <img src="https://raw.githubusercontent.com/Gurmit147/Gurmit147/main/cyberpunk.gif" alt="GitHub Banner" width="100%" style="border-radius: 15px; box-shadow: 0 10px 30px rgba(0,255,255,0.3);">
 </p>
 
 <h1 align="center">
