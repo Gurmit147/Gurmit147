@@ -72,13 +72,6 @@
 
 </div>
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Gurmit147&show_icons=true&count_private=true&hide_border=true&title_color=00ffff&icon_color=00ffff&text_color=c9d1d9&bg_color=0d1117" alt="Gurmit's GitHub Stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gurmit147&layout=compact&hide_border=true&title_color=00ffff&text_color=c9d1d9&bg_color=0d1117" alt="Gurmit's Top Languages" />
-</div>
-
 <br>
 
 <div align="center">
