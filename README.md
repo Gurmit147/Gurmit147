@@ -120,15 +120,15 @@
 <br>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Gurmit147/Gurmit147/output/snake.svg" alt="Snake animation" />
+  <img src="https://i.ibb.co/2tqgJbL/coding-boy.gif" width="300px" alt="Coding Animation">
+  <br>
+  <h3>✨ "Code. Create. Conquer." ✨</h3>
 </div>
 
 ---
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&fontSize=30&fontAlignY=80&descAlignY=80&animation=twinkling" width="100%"/>
-  
-  ### ⭐ "Code. Create. Conquer." ⭐
   
   #### Thanks for visiting! Let's build something amazing together! 🚀
 </div>
