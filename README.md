@@ -44,7 +44,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Gurmit147&theme=radical&no-frame=true&margin-w=15&margin-h=15&column=4" alt="trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=Gurmit147&theme=radical&no-frame=true&margin-w=15&margin-h=15&column=4" alt="GitHub Trophies" />
 
 </div>
 
