@@ -13,6 +13,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Gurmit147&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/Gurmit147?label=Followers&style=social" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/commit-activity/m/Gurmit147/Gurmit147?label=Total%20Commits&color=00ffff&style=social" alt="Total Commits" />
 </p>
 
 <div align="center">
@@ -57,7 +58,6 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 </div>
 
-
 ### 🥇 Distinguished Achievements
 
 <div align="center">
@@ -82,6 +82,23 @@
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gurmit147&bg_color=0d1117&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true" width="100%" alt="Contribution Graph" />
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+</div>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Gurmit147&show_icons=true&count_private=true&hide_border=true&title_color=00ffff&icon_color=00ffff&text_color=c9d1d9&bg_color=0d1117" alt="Gurmit's GitHub Stats" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gurmit147&layout=compact&hide_border=true&title_color=00ffff&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" width="49%" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Gurmit147&hide_border=true&title_color=00ffff&text_color=c9d1d9&bg_color=0d1117&layout=compact" width="70%" alt="Wakatime Stats" />
 </div>
 
 <div align="center">
@@ -120,6 +137,3 @@
   
   #### Thanks for visiting! Let's build something amazing together! 🚀
 </div>
-
-
-
